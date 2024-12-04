@@ -3,6 +3,7 @@ import java.io.DataInputStream;
 import java.io.DataOutputStream;
 import java.io.IOException;
 
+// LOGIC
 public class Game {
     private DataOutputStream out;
     private DataInputStream in;
